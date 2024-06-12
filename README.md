@@ -33,7 +33,7 @@ The application allows users to search for ice cream flavors, add flavors to a c
 * Step 6: Open the Application in Your Browser
   
 ### File Descriptions
-Open the files as shown below:
+Open the files as shown:
 ![image](https://github.com/JahnaviGorlagunta/Scoops-Smiles/assets/172537713/9c8fa928-fcbb-44e6-a645-5561709ac67e)
 
 * app.py: The main Flask application file.
