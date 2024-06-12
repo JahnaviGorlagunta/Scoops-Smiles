@@ -38,12 +38,8 @@ The application allows users to search for ice cream flavors, add flavors to a c
 ### File Descriptions
 
 * app.py: The main Flask application file.
-* templates/: Directory containing HTML templates
-      * mainpage.html: The main landing page of the application.
-      * index.html: The page displaying ice cream flavors.
-* static/: Directory containing static files like CSS and JavaScript.
-       * css/style.css: The stylesheet for the application.
-       * js/script.js: The JavaScript file for the application.
+* templates/: Directory containing HTML templates. ( mainpage.html, index.html)
+* static/: Directory containing static files like CSS and JavaScript.(css/style.css, js/script.js)
 * ice_cream_parlor.db: The SQLite database file.
 
 ## Help
