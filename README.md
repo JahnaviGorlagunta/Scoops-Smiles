@@ -48,5 +48,4 @@ The application allows users to search for ice cream flavors, add flavors to a c
 * If you encounter any issues with the setup, make sure that Python and pip are correctly installed on your system.
 
 ## Acknowledgments
-* 
 This `README.md` file provides a comprehensive guide on how to set up and run "Ice Cream Parlor application" on Windows using Visual Studio Code. Adjust the repository URL in the clone command to match your actual repository URL if needed.
