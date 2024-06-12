@@ -17,12 +17,6 @@ The application allows users to search for ice cream flavors, add flavors to a c
 * Add flavors to a cart
 * Manage allergens
 
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Prerequisites
 
 * Python 3.6 or later
@@ -42,7 +36,8 @@ The application allows users to search for ice cream flavors, add flavors to a c
       python app.py
 * Step 6: Open the Application in Your Browser
   
-##File Descriptions
+### File Descriptions
+
 * app.py: The main Flask application file.
 * templates/: Directory containing HTML templates.
       mainpage.html: The main landing page of the application.
