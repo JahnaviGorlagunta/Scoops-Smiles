@@ -27,10 +27,9 @@ The application allows users to search for ice cream flavors, add flavors to a c
 
 * Step 1: Clone the Repository
 * Step 2: Create a Virtual Environment
-     python -m venv venv
+     * python -m venv venv
 * Step 3: Activate the Virtual Environment
-      # For Windows
-      venv\Scripts\activate
+     * venv\Scripts\activate ( For Windows )
 * Step 4: pip install Flask
 * Step 5: Run the Application
       python app.py
