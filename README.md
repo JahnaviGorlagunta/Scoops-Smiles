@@ -1,7 +1,4 @@
-# VIceCream
-# Project Title
-
-Scoops & Smiles
+# Scoops & Smiles
 
 ## Description
 
