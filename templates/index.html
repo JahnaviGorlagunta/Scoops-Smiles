@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ice Cream Parlor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    
+    <section>
+        <h2>Search for your Favorite flavor </h2>
+        <form id="search-form">
+            <input type="text" id="search-term" placeholder="Enter your flavor here">
+            <button type="submit">Search</button>
+        </form>
+        <ul id="search-results"></ul>
+    </section>
 
+    <section>
+        <h2>Add your preffered Allergen</h2>
+        <form id="add-allergen-form">
+            <input type="text" id="allergen" placeholder="Enter the allergen to be added">
+            <button type="submit">Add Allergen</button>
+        </form>
+        <p id="add-allergen-message"></p>
+    </section>
+
+    <section>
+        <h2>Cart</h2>
+        <ul id="cart"></ul>
+    </section>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
