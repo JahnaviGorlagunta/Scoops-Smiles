@@ -32,13 +32,13 @@ The application allows users to search for ice cream flavors, add flavors to a c
      * venv\Scripts\activate ( For Windows )
 * Step 4: pip install Flask
 * Step 5: Run the Application
-      python app.py
+     * python app.py
 * Step 6: Open the Application in Your Browser
   
 ### File Descriptions
 
 * app.py: The main Flask application file.
-* templates/: Directory containing HTML templates.
+* templates/: Directory containing HTML templates
       * mainpage.html: The main landing page of the application.
       * index.html: The page displaying ice cream flavors.
 * static/: Directory containing static files like CSS and JavaScript.
