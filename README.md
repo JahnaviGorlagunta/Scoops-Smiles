@@ -33,6 +33,8 @@ The application allows users to search for ice cream flavors, add flavors to a c
 * Step 6: Open the Application in Your Browser
   
 ### File Descriptions
+Open the files as shown below:
+![image](https://github.com/JahnaviGorlagunta/Scoops-Smiles/assets/172537713/9c8fa928-fcbb-44e6-a645-5561709ac67e)
 
 * app.py: The main Flask application file.
 * templates/: Directory containing HTML templates. ( mainpage.html, index.html)
@@ -43,7 +45,6 @@ The application allows users to search for ice cream flavors, add flavors to a c
 
 * Ensure that your virtual environment is activated whenever you run the application.
 * If you encounter any issues with the setup, make sure that Python and pip are correctly installed on your system.
-![image](https://github.com/JahnaviGorlagunta/Scoops-Smiles/assets/172537713/0fd65e13-e629-4ba3-a012-f175b48284ea)
 
 ## Acknowledgments
 This `README.md` file provides a comprehensive guide on how to set up and run "Ice Cream Parlor application" on Windows using Visual Studio Code. Adjust the repository URL in the clone command to match your actual repository URL if needed.
